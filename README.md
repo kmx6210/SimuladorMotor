@@ -10,3 +10,6 @@ recebe do modulo de injeção :
 injeção;
 velas;
 sinal da ventoinha.
+
+os comandos de aceleração vem do serial monitor  do arduino 
+projeto montado para uma placa uno-r3
